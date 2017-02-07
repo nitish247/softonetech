@@ -10,7 +10,7 @@ You can share, modify, extend and redistribute it.
 Code is with Proper Documentation.
 Language Implemented: C
 Supported Compilers: Turbo C/C++ (Version 3.0 or Further)
-Contact Us for Any Doubt: nitish247@outlook.com
+Contact me: nitish247@outlook.com
 */
 
 #include<graphics.h>

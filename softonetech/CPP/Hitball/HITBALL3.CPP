@@ -3,12 +3,8 @@ Pineapple HitBall
 "OpenSource" VGA Game from Pineapple Software
 Properly Documented C++ Source Code
 
-Contact Us:
-E-mail: softonetech@yahoo.com
-Facebook Page: www.facebook.com/softonetech
-
-Join With Us (Share your Ideas and Innovations):
-Phone: +91-9028967081
+Contact me:
+E-mail: nitish247@outlook.com
 */
 
 #include<graphics.h>
